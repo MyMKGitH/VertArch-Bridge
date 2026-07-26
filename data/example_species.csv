@@ -1,0 +1,8 @@
+species,common_name,vertebrate_class,genome_size_mb,gc_content_pct,chromosome_number,generation_time_years
+Homo sapiens,Human,Mammalia,3100,41,46,27
+Mus musculus,House mouse,Mammalia,2700,42,40,0.5
+Loxodonta africana,African elephant,Mammalia,3200,41,56,23
+Gallus gallus,Chicken,Aves,1050,42,78,1.5
+Danio rerio,Zebrafish,Actinopterygii,1400,36,50,0.5
+Salmo salar,Atlantic salmon,Actinopterygii,2970,41,58,3.5
+Takifugu rubripes,Pufferfish,Actinopterygii,390,45,44,1.5
