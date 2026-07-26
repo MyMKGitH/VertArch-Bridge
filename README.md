@@ -95,3 +95,5 @@ VertArch-Bridge/
  * [ ] **Phylogenetic Comparative Controls:** Incorporating Phylogenetic Generalized Least Squares (PGLS) to adjust for evolutionary non-independence.
 ## 📜 License
 Distributed under the **MIT License**.
+
+[![DOI](https://zenodo.org/badge/1312534782.svg)](https://doi.org/10.5281/zenodo.21589137)
