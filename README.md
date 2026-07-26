@@ -1,15 +1,7 @@
 # VertArch-Bridge v1.0.0
 > **Comparative Vertebrate Genome Architecture & Alignment-Free Sequence Analysis Suite**
 > 
-Version
 
-Python
-
-Framework
-
-License
-
-Docker
 ## 📌 Executive Summary
 **VertArch-Bridge** is an interactive computational framework engineered to explore fundamental questions in evolutionary genomics: **Is vertebrate genome architecture (genome size, GC content, chromosome topology) primarily shaped by mutational processes or by natural selection?**
 The application bridges macro-scale genomic metadata analysis with micro-scale sequence profiling. It provides a three-tiered analytical pipeline combining genome-wide evolutionary trait charting, sliding-window CpG island scanning for germline methylation analysis, and reference-free k-mer MinHash sequence similarity estimation.
@@ -36,7 +28,7 @@ VertArch-Bridge Architecture
  * **Algorithm:** Bottom-k MinHash sketching using SHA-1 salted hash functions over sliding k-mers (11 \le k \le 31).
  * **Jaccard Estimator:**
    
-## Tabs
+## 📁 Tabs
 
 1. **Genome Architecture Explorer** — plots genome size / GC% / chromosome
    number against a generation-time proxy for mutation supply, across a
@@ -59,7 +51,7 @@ VertArch-Bridge Architecture
    applied one level up to compare genomic sequences directly, as a
    lightweight analog of the reference-free whole-genome alignment approach
    (Cactus / VGP) central to the position.
-```
+
 ## 🚀 Quick Start & Installation
 ### Local Setup
 ```bash
